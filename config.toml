@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://giovanna.marketing/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
