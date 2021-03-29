@@ -13,11 +13,11 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Service"
+name = "Services"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Work"
+name = "Portfolio"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
@@ -36,7 +36,7 @@ weight = 7
 # Sitemap Menu
 [[menu.sitemap]]
 name = "About me"
-url = "about"
+url = "#about"
 weight = 1
 [[menu.sitemap]]
 name = "Frequently Ask Question"
@@ -54,17 +54,17 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "© Giovanna Marketing 2021"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "Av. Presidente Costa e Silva, 4777 - Passaré, Fortaleza - CE - Brazil, 60862-515"
+email = "contact@giovanna.marketing"
+openingHours = "from 18:30 to 20:30, from Monday to Saturday (GMT -03:00)"
+phone = "+55 85 9 9128-4780 (https://wa.me/5585991284780/)"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
@@ -74,18 +74,22 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+icon = "fa-instagram"
+url = "https://instagram.com/giovanna.marketing"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/giovannamwt"
 weight = 2
 [[params.social]]
 icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+url = "https://www.pinterest.com/giovannamwt"
 weight = 3
 [[params.social]]
 icon = "fa-twitter-square"
-url = "https://twitter.com/"
+url = "https://twitter.com/giovannamwt"
+weight = 4
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://facebook.com/giovannamwt"
 weight = 4
