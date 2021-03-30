@@ -16,18 +16,18 @@ weight = 2
 name = "Services"
 url = "#service"
 weight = 3
-[[menu.main]]
-name = "Portfolio"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
-[[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 6
+#[[menu.main]]
+#name = "Portfolio"
+#url = "#portfolio"
+#weight = 4
+#[[menu.main]]
+#name = "Resume"
+#url = "#resume"
+#weight = 5
+#[[menu.main]]
+#name = "Blog"
+#url = "#blog"
+#weight = 6
 [[menu.main]]
 name = "Contact"
 url = "#contact"
@@ -35,20 +35,20 @@ weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "#about"
+name = "Home"
+url = "#home"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
+name = "About"
+url = "#about"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
+name = "Services"
+url = "#creative-services"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
-url = "#"
+name = "Privacy & Policy"
+url = "#privacy-policy"
 weight = 4
 
 [params]
@@ -64,7 +64,7 @@ logo = "images/site-navigation/logo.png"
 address = "Av. Presidente Costa e Silva, 4777 - Passaré, Fortaleza - CE - Brazil, 60862-515"
 email = "contact@giovanna.marketing"
 openingHours = "from 18:30 to 20:30, from Monday to Saturday (GMT -03:00)"
-phone = "+55 85 9 9128-4780 (https://wa.me/5585991284780/)"
+phone = "+55 85 9 9128-4780"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"

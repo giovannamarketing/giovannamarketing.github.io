@@ -1,58 +1,59 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: About
 title: >
   ## My Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  I have worked mainly as an Art director, creating, editing and posting graphic designs for Instagram, Facebook and other social media platforms.  
 
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
-tab1Target: education
-tab2Target: experience
 
-education:
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+  Also, I work as a part-time freelancer on major platforms such as [Workana](https://www.workana.com/freelancer/2eea1e6901ce5c5416a666b21523c30d), [Upwork](https://www.upwork.com/o/profiles/users/~016778d2d3d026f912/) and [Fiverr](https://fiverr.com/giovannamt).
+tab1Name: Experiences
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### [Centro Universitário 7 de Setembro](https://www.uni7.edu.br/)
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Bachelor's in advertising and marketing
+    time: 2016-2020
+  # - content: >
+  #     #### Master in Arts
+
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2008-2010
+  # - content: >
+  #     #### Master in Arts
+
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2008-2010
+  # - content: >
+  #     #### Master in Arts
+
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2008-2010
+
+education:
   - content: >
-      #### Aperture Science 
+      #### [eNe Soluções](http://www.enesolucoes.com.br/)
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Art director
+    time: 2021-Present
   - content: >
-      #### ACME Inc. 
+      #### [VBN Marketing](https://www.vbn.marketing/) 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      Art director
+    time: 2019-2021
   - content: >
-      #### LexCorp 
+      #### [2Go! Branding & Marketing](https://2gobranding.com.br/)
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Art director
+    time: 2019-2019
+  # - content: >
+  #     #### LexCorp 
+
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2001-2005

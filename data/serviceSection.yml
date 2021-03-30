@@ -4,42 +4,25 @@ topTitle: Working Area
 title: >
   ## Creative Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Not only I provide the graphic designs to fit your needs but also the marketing strategy to fit your project.
 service:
-  - content: >
-      #### UI/UX Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
-  - content: >
-      #### Creative Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
   - content: >
       #### Branding
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      From logo design to visual identity creation, generate a unique brand which highlight your business and distinguish it from others.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### Social media management
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Design and schedule high quality content for Instagram, Facebook and many other social media platforms. 
     image: images/service/web.svg
+  - content: >
+      #### Marketing campaigns
+
+      Google Ads, Facebook Ads, create and optimize the cost of your paid campaigns, focusing on targeting the real potential customers.
+    image: images/service/creative.svg
+  - content: >
+      #### Landing pages
+
+      Want to develop a landing page like this one? I'll help you to design the page layout, colors, buttons, fonts and much more.
+    image: images/service/branding.svg

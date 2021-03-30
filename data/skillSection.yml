@@ -2,16 +2,18 @@
 enable: true
 topTitle: My Skills
 content: >
-  ## Why hire me for your next project?
+  ## Why hire me for your project?
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  I have strong knowledge about the Adobe suite products, which allow me to deliver my work fast and with top quality.
 
-image: images/skill/skill_image.jpg
+image: images/photo-2.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: Adobe Photoshop
+    percent: 75
+  - title: Adobe Ilustrator
+    percent: 70
+  - title: Adobe Premiere
+    percent: 65
+  - title: Adobe XD
+    percent: 5 
