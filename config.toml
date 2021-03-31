@@ -10,7 +10,7 @@ url = "#home"
 weight = 1
 [[menu.main]]
 name = "About"
-url = "#about"
+url = "#my-expertises"
 weight = 2
 [[menu.main]]
 name = "Services"
@@ -44,7 +44,7 @@ url = "#about"
 weight = 2
 [[menu.sitemap]]
 name = "Services"
-url = "#creative-services"
+url = "#service"
 weight = 3
 [[menu.sitemap]]
 name = "Privacy & Policy"
@@ -56,8 +56,8 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "© Giovanna Marketing 2021"
 footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+formspreeURL = "https://formspree.io/f/moqyaobj"
+googleAnalytics = "G-L52C44M9PJ"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
@@ -67,9 +67,9 @@ openingHours = "from 18:30 to 20:30, from Monday to Saturday (GMT -03:00)"
 phone = "+55 85 9 9128-4780"
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
+APIkey = "AIzaSyDcbhe2HffvtmXX7fJqEoZFvpu0fNs81Ew"
+latitude = "-3.8246187"
+longitude = "-38.5466492"
 pinImage = "images/pin.png"
 
 # Social icons
